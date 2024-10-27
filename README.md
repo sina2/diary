@@ -13,3 +13,5 @@ chmod 755 *.cgi
 
 ##  使い方
 diary/ の下に yyyymm形式の数字6桁のフォルダを作り、そのフォルダのindex.html に書いてください。
+
+文字コードは diary/index.html のMETAタグに書いてます。デフォルトは（私のブログの互換性から）Shift-JISです。
